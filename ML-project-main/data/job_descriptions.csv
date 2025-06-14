@@ -1,0 +1,1201 @@
+Category,JD_Text
+Java Developer,"**Job Title**: Java Backend Developer
+**Location**: New York, NY (Hybrid)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- Develop scalable RESTful APIs using Java and Spring Boot.
+- Collaborate with frontend developers to integrate backend services.
+- Optimize application performance and database interactions.
+- Participate in code reviews and agile development processes.
+
+**Requirements**:
+- Strong experience with Java, Spring Boot, and JPA/Hibernate.
+- Familiarity with REST APIs, Git, and Maven.
+- Experience working with relational databases like MySQL or PostgreSQL.
+- Knowledge of microservices architecture and cloud deployment.
+"
+Java Developer,"**Job Title**: Full Stack Java Developer
+**Location**: San Francisco, CA (Remote)
+**Experience**: 4–6 years
+
+**Responsibilities**:
+- Design and implement full stack features using Java and Angular.
+- Ensure cross-platform optimization and responsiveness.
+- Troubleshoot and debug backend issues efficiently.
+- Collaborate in code sprints and agile ceremonies.
+
+**Requirements**:
+- Experience in Java, Spring Boot, Angular, and REST APIs.
+- Ability to write reusable frontend and backend components.
+- Good understanding of CI/CD practices and DevOps tools.
+- Familiarity with Docker and containerized environments.
+"
+Java Developer,"**Job Title**: Junior Java Developer
+**Location**: Austin, TX (Onsite)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- Assist in coding Java modules and writing unit tests.
+- Fix bugs and support the existing Java application stack.
+- Collaborate with senior developers in feature development.
+- Maintain project documentation and follow development standards.
+
+**Requirements**:
+- Understanding of Java, OOP principles, and Spring framework.
+- Ability to read and debug legacy codebases.
+- Basic SQL and familiarity with Git version control.
+- Good communication and willingness to learn quickly.
+"
+DevOps Engineer,"**Job Title**: Cloud DevOps Engineer
+**Location**: Boston, MA (Onsite)
+**Experience**: 5–8 years
+
+**Responsibilities**:
+- Implement and maintain CI/CD pipelines using Jenkins and GitHub Actions.
+- Manage cloud infrastructure on AWS, including EC2, S3, and IAM.
+- Monitor system performance and availability using Prometheus and Grafana.
+- Automate system provisioning with Terraform and Ansible.
+
+**Requirements**:
+- 5+ years of experience in DevOps roles managing cloud environments.
+- Proficiency in AWS services, Docker, and Kubernetes.
+- Strong scripting skills in Python or Bash.
+- Experience with infrastructure as code and configuration management tools.
+"
+DevOps Engineer,"**Job Title**: Senior DevOps Engineer
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 6+ years
+
+**Responsibilities**:
+- Lead DevOps strategy across multiple product teams.
+- Design and enforce automated deployment workflows and security policies.
+- Collaborate with developers to improve build and release processes.
+- Ensure 24/7 uptime for production environments using scalable monitoring solutions.
+
+**Requirements**:
+- Extensive experience in CI/CD tools, particularly GitLab CI and ArgoCD.
+- Expertise in Kubernetes cluster management and Helm.
+- Knowledge of networking, firewalls, and cloud security best practices.
+- Excellent troubleshooting and incident response skills.
+"
+DevOps Engineer,"**Job Title**: DevOps Engineer – Container Specialist
+**Location**: Austin, TX (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- Design and maintain Docker-based containerized environments.
+- Implement container orchestration using Kubernetes.
+- Create robust logging and alerting systems using ELK stack.
+- Support developers in containerizing applications and resolving environment issues.
+
+**Requirements**:
+- Hands-on experience with Docker, Kubernetes, and Helm charts.
+- Familiarity with ELK stack, Fluentd, or other logging tools.
+- Understanding of REST APIs and microservice architectures.
+- Ability to work with cloud-native platforms (e.g., AWS EKS, GCP GKE).
+"
+Python Developer,"**Job Title**: Backend Python Developer
+**Location**: Chicago, IL (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- Develop backend APIs using Flask and Django frameworks.
+- Optimize database queries and design scalable logic.
+- Write unit and integration tests for backend components.
+- Collaborate with data engineers and product managers.
+
+**Requirements**:
+- Strong Python skills and knowledge of Flask/Django.
+- Familiarity with PostgreSQL or MongoDB.
+- Experience with RESTful APIs and JSON data handling.
+- Version control using Git and code review practices.
+"
+Python Developer,"**Job Title**: Machine Learning Python Developer
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 4–6 years
+
+**Responsibilities**:
+- Develop and deploy machine learning models using Python.
+- Work with data scientists to translate algorithms into production.
+- Build REST APIs for model serving and predictions.
+- Automate model retraining and monitoring pipelines.
+
+**Requirements**:
+- Experience with Python ML libraries like scikit-learn and TensorFlow.
+- Knowledge of APIs, Docker, and cloud deployments.
+- Ability to write clean, modular, and reusable code.
+- Experience with Linux environments and shell scripting.
+"
+Python Developer,"**Job Title**: Junior Python Developer
+**Location**: Austin, TX (Onsite)
+**Experience**: 1–2 years
+
+**Responsibilities**:
+- Support development of Python scripts for data processing tasks.
+- Fix bugs and maintain legacy Python applications.
+- Work with senior developers on new module implementations.
+- Document features and write basic unit tests.
+
+**Requirements**:
+- Basic understanding of Python and OOP.
+- Familiarity with CSV/JSON file handling and REST APIs.
+- Comfortable using Git and Linux command-line tools.
+- Good problem-solving and debugging skills.
+"
+Operations Manager,"**Job Title**: Operations Manager Specialist
+**Location**: Chicago, IL (Remote)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core operations manager tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver operations manager solutions.
+- oubleshoot and resolve issues in operations manager workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in operations manager projects or environments.
+- Strong analytical and problem-solving skills in the field of operations manager.
+- Familiarity with tools and technologies related to operations manager.
+- Ability to work independently and in a team on operations manager challenges.
+"
+Operations Manager,"**Job Title**: Senior Operations Manager
+**Location**: New York, NY (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core operations manager tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver operations manager solutions.
+- oubleshoot and resolve issues in operations manager workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in operations manager projects or environments.
+- Strong analytical and problem-solving skills in the field of operations manager.
+- Familiarity with tools and technologies related to operations manager.
+- Ability to work independently and in a team on operations manager challenges.
+"
+Operations Manager,"**Job Title**: Operations Manager Analyst
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core operations manager tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver operations manager solutions.
+- oubleshoot and resolve issues in operations manager workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in operations manager projects or environments.
+- Strong analytical and problem-solving skills in the field of operations manager.
+- Familiarity with tools and technologies related to operations manager.
+- Ability to work independently and in a team on operations manager challenges.
+"
+Network Security Engineer,"**Job Title**: Network Security Engineer Specialist
+**Location**: Chicago, IL (Remote)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core network security engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver network security engineer solutions.
+- oubleshoot and resolve issues in network security engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in network security engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of network security engineer.
+- Familiarity with tools and technologies related to network security engineer.
+- Ability to work independently and in a team on network security engineer challenges.
+"
+Network Security Engineer,"**Job Title**: Senior Network Security Engineer
+**Location**: New York, NY (Hybrid)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core network security engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver network security engineer solutions.
+- oubleshoot and resolve issues in network security engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in network security engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of network security engineer.
+- Familiarity with tools and technologies related to network security engineer.
+- Ability to work independently and in a team on network security engineer challenges.
+"
+Network Security Engineer,"**Job Title**: Network Security Engineer Engineer
+**Location**: New York, NY (Hybrid)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core network security engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver network security engineer solutions.
+- oubleshoot and resolve issues in network security engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in network security engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of network security engineer.
+- Familiarity with tools and technologies related to network security engineer.
+- Ability to work independently and in a team on network security engineer challenges.
+"
+Testing,"**Job Title**: Testing Specialist
+**Location**: Boston, MA (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core testing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver testing solutions.
+- oubleshoot and resolve issues in testing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in testing projects or environments.
+- Strong analytical and problem-solving skills in the field of testing.
+- Familiarity with tools and technologies related to testing.
+- Ability to work independently and in a team on testing challenges.
+"
+Testing,"**Job Title**: Senior Testing
+**Location**: Boston, MA (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core testing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver testing solutions.
+- oubleshoot and resolve issues in testing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in testing projects or environments.
+- Strong analytical and problem-solving skills in the field of testing.
+- Familiarity with tools and technologies related to testing.
+- Ability to work independently and in a team on testing challenges.
+"
+Testing,"**Job Title**: Testing Analyst
+**Location**: Boston, MA (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core testing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver testing solutions.
+- oubleshoot and resolve issues in testing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in testing projects or environments.
+- Strong analytical and problem-solving skills in the field of testing.
+- Familiarity with tools and technologies related to testing.
+- Ability to work independently and in a team on testing challenges.
+"
+Civil Engineer,"**Job Title**: Civil Engineer Specialist
+**Location**: Chicago, IL (Remote)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core civil engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver civil engineer solutions.
+- oubleshoot and resolve issues in civil engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in civil engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of civil engineer.
+- Familiarity with tools and technologies related to civil engineer.
+- Ability to work independently and in a team on civil engineer challenges.
+"
+Civil Engineer,"**Job Title**: Senior Civil Engineer
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core civil engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver civil engineer solutions.
+- oubleshoot and resolve issues in civil engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in civil engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of civil engineer.
+- Familiarity with tools and technologies related to civil engineer.
+- Ability to work independently and in a team on civil engineer challenges.
+"
+Civil Engineer,"**Job Title**: Civil Engineer Engineer
+**Location**: New York, NY (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core civil engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver civil engineer solutions.
+- oubleshoot and resolve issues in civil engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in civil engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of civil engineer.
+- Familiarity with tools and technologies related to civil engineer.
+- Ability to work independently and in a team on civil engineer challenges.
+"
+Automation Testing,"**Job Title**: Automation Testing Specialist
+**Location**: Austin, TX (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core automation testing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver automation testing solutions.
+- oubleshoot and resolve issues in automation testing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in automation testing projects or environments.
+- Strong analytical and problem-solving skills in the field of automation testing.
+- Familiarity with tools and technologies related to automation testing.
+- Ability to work independently and in a team on automation testing challenges.
+"
+Automation Testing,"**Job Title**: Senior Automation Testing
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core automation testing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver automation testing solutions.
+- oubleshoot and resolve issues in automation testing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in automation testing projects or environments.
+- Strong analytical and problem-solving skills in the field of automation testing.
+- Familiarity with tools and technologies related to automation testing.
+- Ability to work independently and in a team on automation testing challenges.
+"
+Automation Testing,"**Job Title**: Automation Testing Analyst
+**Location**: Boston, MA (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core automation testing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver automation testing solutions.
+- oubleshoot and resolve issues in automation testing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in automation testing projects or environments.
+- Strong analytical and problem-solving skills in the field of automation testing.
+- Familiarity with tools and technologies related to automation testing.
+- Ability to work independently and in a team on automation testing challenges.
+"
+Business Analyst,"**Job Title**: Business Analyst Specialist
+**Location**: New York, NY (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core business analyst tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver business analyst solutions.
+- oubleshoot and resolve issues in business analyst workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in business analyst projects or environments.
+- Strong analytical and problem-solving skills in the field of business analyst.
+- Familiarity with tools and technologies related to business analyst.
+- Ability to work independently and in a team on business analyst challenges.
+"
+Business Analyst,"**Job Title**: Senior Business Analyst
+**Location**: San Francisco, CA (Remote)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core business analyst tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver business analyst solutions.
+- oubleshoot and resolve issues in business analyst workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in business analyst projects or environments.
+- Strong analytical and problem-solving skills in the field of business analyst.
+- Familiarity with tools and technologies related to business analyst.
+- Ability to work independently and in a team on business analyst challenges.
+"
+Business Analyst,"**Job Title**: Business Analyst Analyst
+**Location**: Boston, MA (Onsite)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core business analyst tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver business analyst solutions.
+- oubleshoot and resolve issues in business analyst workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in business analyst projects or environments.
+- Strong analytical and problem-solving skills in the field of business analyst.
+- Familiarity with tools and technologies related to business analyst.
+- Ability to work independently and in a team on business analyst challenges.
+"
+Advocate,"**Job Title**: Advocate Specialist
+**Location**: Boston, MA (Onsite)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core advocate tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver advocate solutions.
+- oubleshoot and resolve issues in advocate workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in advocate projects or environments.
+- Strong analytical and problem-solving skills in the field of advocate.
+- Familiarity with tools and technologies related to advocate.
+- Ability to work independently and in a team on advocate challenges.
+"
+Advocate,"**Job Title**: Senior Advocate
+**Location**: New York, NY (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core advocate tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver advocate solutions.
+- oubleshoot and resolve issues in advocate workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in advocate projects or environments.
+- Strong analytical and problem-solving skills in the field of advocate.
+- Familiarity with tools and technologies related to advocate.
+- Ability to work independently and in a team on advocate challenges.
+"
+Advocate,"**Job Title**: Advocate Analyst
+**Location**: Austin, TX (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core advocate tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver advocate solutions.
+- oubleshoot and resolve issues in advocate workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in advocate projects or environments.
+- Strong analytical and problem-solving skills in the field of advocate.
+- Familiarity with tools and technologies related to advocate.
+- Ability to work independently and in a team on advocate challenges.
+"
+Blockchain,"**Job Title**: Blockchain Specialist
+**Location**: San Francisco, CA (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core blockchain tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver blockchain solutions.
+- oubleshoot and resolve issues in blockchain workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in blockchain projects or environments.
+- Strong analytical and problem-solving skills in the field of blockchain.
+- Familiarity with tools and technologies related to blockchain.
+- Ability to work independently and in a team on blockchain challenges.
+"
+Blockchain,"**Job Title**: Senior Blockchain
+**Location**: Boston, MA (Onsite)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core blockchain tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver blockchain solutions.
+- oubleshoot and resolve issues in blockchain workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in blockchain projects or environments.
+- Strong analytical and problem-solving skills in the field of blockchain.
+- Familiarity with tools and technologies related to blockchain.
+- Ability to work independently and in a team on blockchain challenges.
+"
+Blockchain,"**Job Title**: Blockchain Analyst
+**Location**: New York, NY (Hybrid)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core blockchain tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver blockchain solutions.
+- oubleshoot and resolve issues in blockchain workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in blockchain projects or environments.
+- Strong analytical and problem-solving skills in the field of blockchain.
+- Familiarity with tools and technologies related to blockchain.
+- Ability to work independently and in a team on blockchain challenges.
+"
+Mechanical Engineer,"**Job Title**: Mechanical Engineer Specialist
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core mechanical engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver mechanical engineer solutions.
+- oubleshoot and resolve issues in mechanical engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in mechanical engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of mechanical engineer.
+- Familiarity with tools and technologies related to mechanical engineer.
+- Ability to work independently and in a team on mechanical engineer challenges.
+"
+Mechanical Engineer,"**Job Title**: Senior Mechanical Engineer
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core mechanical engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver mechanical engineer solutions.
+- oubleshoot and resolve issues in mechanical engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in mechanical engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of mechanical engineer.
+- Familiarity with tools and technologies related to mechanical engineer.
+- Ability to work independently and in a team on mechanical engineer challenges.
+"
+Mechanical Engineer,"**Job Title**: Mechanical Engineer Engineer
+**Location**: Boston, MA (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core mechanical engineer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver mechanical engineer solutions.
+- oubleshoot and resolve issues in mechanical engineer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in mechanical engineer projects or environments.
+- Strong analytical and problem-solving skills in the field of mechanical engineer.
+- Familiarity with tools and technologies related to mechanical engineer.
+- Ability to work independently and in a team on mechanical engineer challenges.
+"
+SAP Developer,"**Job Title**: SAP Developer Specialist
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core sap developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver sap developer solutions.
+- oubleshoot and resolve issues in sap developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in sap developer projects or environments.
+- Strong analytical and problem-solving skills in the field of sap developer.
+- Familiarity with tools and technologies related to sap developer.
+- Ability to work independently and in a team on sap developer challenges.
+"
+SAP Developer,"**Job Title**: Senior SAP Developer
+**Location**: Boston, MA (Onsite)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core sap developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver sap developer solutions.
+- oubleshoot and resolve issues in sap developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in sap developer projects or environments.
+- Strong analytical and problem-solving skills in the field of sap developer.
+- Familiarity with tools and technologies related to sap developer.
+- Ability to work independently and in a team on sap developer challenges.
+"
+SAP Developer,"**Job Title**: SAP Developer Analyst
+**Location**: Chicago, IL (Remote)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core sap developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver sap developer solutions.
+- oubleshoot and resolve issues in sap developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in sap developer projects or environments.
+- Strong analytical and problem-solving skills in the field of sap developer.
+- Familiarity with tools and technologies related to sap developer.
+- Ability to work independently and in a team on sap developer challenges.
+"
+Health and fitness,"**Job Title**: Health and fitness Specialist
+**Location**: San Francisco, CA (Remote)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core health and fitness tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver health and fitness solutions.
+- oubleshoot and resolve issues in health and fitness workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in health and fitness projects or environments.
+- Strong analytical and problem-solving skills in the field of health and fitness.
+- Familiarity with tools and technologies related to health and fitness.
+- Ability to work independently and in a team on health and fitness challenges.
+"
+Health and fitness,"**Job Title**: Senior Health and fitness
+**Location**: San Francisco, CA (Remote)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core health and fitness tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver health and fitness solutions.
+- oubleshoot and resolve issues in health and fitness workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in health and fitness projects or environments.
+- Strong analytical and problem-solving skills in the field of health and fitness.
+- Familiarity with tools and technologies related to health and fitness.
+- Ability to work independently and in a team on health and fitness challenges.
+"
+Health and fitness,"**Job Title**: Health and fitness Analyst
+**Location**: New York, NY (Hybrid)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core health and fitness tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver health and fitness solutions.
+- oubleshoot and resolve issues in health and fitness workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in health and fitness projects or environments.
+- Strong analytical and problem-solving skills in the field of health and fitness.
+- Familiarity with tools and technologies related to health and fitness.
+- Ability to work independently and in a team on health and fitness challenges.
+"
+Sales,"**Job Title**: Sales Specialist
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core sales tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver sales solutions.
+- oubleshoot and resolve issues in sales workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in sales projects or environments.
+- Strong analytical and problem-solving skills in the field of sales.
+- Familiarity with tools and technologies related to sales.
+- Ability to work independently and in a team on sales challenges.
+"
+Sales,"**Job Title**: Senior Sales
+**Location**: Chicago, IL (Remote)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core sales tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver sales solutions.
+- oubleshoot and resolve issues in sales workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in sales projects or environments.
+- Strong analytical and problem-solving skills in the field of sales.
+- Familiarity with tools and technologies related to sales.
+- Ability to work independently and in a team on sales challenges.
+"
+Sales,"**Job Title**: Sales Analyst
+**Location**: Chicago, IL (Remote)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core sales tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver sales solutions.
+- oubleshoot and resolve issues in sales workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in sales projects or environments.
+- Strong analytical and problem-solving skills in the field of sales.
+- Familiarity with tools and technologies related to sales.
+- Ability to work independently and in a team on sales challenges.
+"
+Database,"**Job Title**: Database Specialist
+**Location**: Chicago, IL (Remote)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core database tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver database solutions.
+- oubleshoot and resolve issues in database workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in database projects or environments.
+- Strong analytical and problem-solving skills in the field of database.
+- Familiarity with tools and technologies related to database.
+- Ability to work independently and in a team on database challenges.
+"
+Database,"**Job Title**: Senior Database
+**Location**: Chicago, IL (Remote)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core database tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver database solutions.
+- oubleshoot and resolve issues in database workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in database projects or environments.
+- Strong analytical and problem-solving skills in the field of database.
+- Familiarity with tools and technologies related to database.
+- Ability to work independently and in a team on database challenges.
+"
+Database,"**Job Title**: Database Analyst
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core database tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver database solutions.
+- oubleshoot and resolve issues in database workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in database projects or environments.
+- Strong analytical and problem-solving skills in the field of database.
+- Familiarity with tools and technologies related to database.
+- Ability to work independently and in a team on database challenges.
+"
+Data Science,"**Job Title**: Data Science Specialist
+**Location**: New York, NY (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver data science solutions.
+- oubleshoot and resolve issues in data science workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in data science projects or environments.
+- Strong analytical and problem-solving skills in the field of data science.
+- Familiarity with tools and technologies related to data science.
+- Ability to work independently and in a team on data science challenges.
+"
+Data Science,"**Job Title**: Senior Data Science
+**Location**: Chicago, IL (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver data science solutions.
+- oubleshoot and resolve issues in data science workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in data science projects or environments.
+- Strong analytical and problem-solving skills in the field of data science.
+- Familiarity with tools and technologies related to data science.
+- Ability to work independently and in a team on data science challenges.
+"
+Data Science,"**Job Title**: Data Science Analyst
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver data science solutions.
+- oubleshoot and resolve issues in data science workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in data science projects or environments.
+- Strong analytical and problem-solving skills in the field of data science.
+- Familiarity with tools and technologies related to data science.
+- Ability to work independently and in a team on data science challenges.
+"
+Electrical Engineering,"**Job Title**: Electrical Engineering Specialist
+**Location**: San Francisco, CA (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core electrical engineering tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver electrical engineering solutions.
+- oubleshoot and resolve issues in electrical engineering workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in electrical engineering projects or environments.
+- Strong analytical and problem-solving skills in the field of electrical engineering.
+- Familiarity with tools and technologies related to electrical engineering.
+- Ability to work independently and in a team on electrical engineering challenges.
+"
+Electrical Engineering,"**Job Title**: Senior Electrical Engineering
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core electrical engineering tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver electrical engineering solutions.
+- oubleshoot and resolve issues in electrical engineering workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in electrical engineering projects or environments.
+- Strong analytical and problem-solving skills in the field of electrical engineering.
+- Familiarity with tools and technologies related to electrical engineering.
+- Ability to work independently and in a team on electrical engineering challenges.
+"
+Electrical Engineering,"**Job Title**: Electrical Engineering Engineer
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core electrical engineering tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver electrical engineering solutions.
+- oubleshoot and resolve issues in electrical engineering workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in electrical engineering projects or environments.
+- Strong analytical and problem-solving skills in the field of electrical engineering.
+- Familiarity with tools and technologies related to electrical engineering.
+- Ability to work independently and in a team on electrical engineering challenges.
+"
+Web Designing,"**Job Title**: Web Designing Specialist
+**Location**: Boston, MA (Onsite)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core web designing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver web designing solutions.
+- oubleshoot and resolve issues in web designing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in web designing projects or environments.
+- Strong analytical and problem-solving skills in the field of web designing.
+- Familiarity with tools and technologies related to web designing.
+- Ability to work independently and in a team on web designing challenges.
+"
+Web Designing,"**Job Title**: Senior Web Designing
+**Location**: New York, NY (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core web designing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver web designing solutions.
+- oubleshoot and resolve issues in web designing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in web designing projects or environments.
+- Strong analytical and problem-solving skills in the field of web designing.
+- Familiarity with tools and technologies related to web designing.
+- Ability to work independently and in a team on web designing challenges.
+"
+Web Designing,"**Job Title**: Web Designing Analyst
+**Location**: Chicago, IL (Remote)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core web designing tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver web designing solutions.
+- oubleshoot and resolve issues in web designing workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in web designing projects or environments.
+- Strong analytical and problem-solving skills in the field of web designing.
+- Familiarity with tools and technologies related to web designing.
+- Ability to work independently and in a team on web designing challenges.
+"
+DotNet Developer,"**Job Title**: DotNet Developer Specialist
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core dotnet developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver dotnet developer solutions.
+- oubleshoot and resolve issues in dotnet developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in dotnet developer projects or environments.
+- Strong analytical and problem-solving skills in the field of dotnet developer.
+- Familiarity with tools and technologies related to dotnet developer.
+- Ability to work independently and in a team on dotnet developer challenges.
+"
+DotNet Developer,"**Job Title**: Senior DotNet Developer
+**Location**: San Francisco, CA (Remote)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core dotnet developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver dotnet developer solutions.
+- oubleshoot and resolve issues in dotnet developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in dotnet developer projects or environments.
+- Strong analytical and problem-solving skills in the field of dotnet developer.
+- Familiarity with tools and technologies related to dotnet developer.
+- Ability to work independently and in a team on dotnet developer challenges.
+"
+DotNet Developer,"**Job Title**: DotNet Developer Analyst
+**Location**: Chicago, IL (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core dotnet developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver dotnet developer solutions.
+- oubleshoot and resolve issues in dotnet developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in dotnet developer projects or environments.
+- Strong analytical and problem-solving skills in the field of dotnet developer.
+- Familiarity with tools and technologies related to dotnet developer.
+- Ability to work independently and in a team on dotnet developer challenges.
+"
+Hadoop,"**Job Title**: Hadoop Specialist
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core hadoop tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver hadoop solutions.
+- oubleshoot and resolve issues in hadoop workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in hadoop projects or environments.
+- Strong analytical and problem-solving skills in the field of hadoop.
+- Familiarity with tools and technologies related to hadoop.
+- Ability to work independently and in a team on hadoop challenges.
+"
+Hadoop,"**Job Title**: Senior Hadoop
+**Location**: Austin, TX (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core hadoop tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver hadoop solutions.
+- oubleshoot and resolve issues in hadoop workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in hadoop projects or environments.
+- Strong analytical and problem-solving skills in the field of hadoop.
+- Familiarity with tools and technologies related to hadoop.
+- Ability to work independently and in a team on hadoop challenges.
+"
+Hadoop,"**Job Title**: Hadoop Analyst
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core hadoop tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver hadoop solutions.
+- oubleshoot and resolve issues in hadoop workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in hadoop projects or environments.
+- Strong analytical and problem-solving skills in the field of hadoop.
+- Familiarity with tools and technologies related to hadoop.
+- Ability to work independently and in a team on hadoop challenges.
+"
+PMO,"**Job Title**: PMO Specialist
+**Location**: San Francisco, CA (Remote)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core pmo tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver pmo solutions.
+- oubleshoot and resolve issues in pmo workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in pmo projects or environments.
+- Strong analytical and problem-solving skills in the field of pmo.
+- Familiarity with tools and technologies related to pmo.
+- Ability to work independently and in a team on pmo challenges.
+"
+PMO,"**Job Title**: Senior PMO
+**Location**: San Francisco, CA (Remote)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core pmo tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver pmo solutions.
+- oubleshoot and resolve issues in pmo workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in pmo projects or environments.
+- Strong analytical and problem-solving skills in the field of pmo.
+- Familiarity with tools and technologies related to pmo.
+- Ability to work independently and in a team on pmo challenges.
+"
+PMO,"**Job Title**: PMO Analyst
+**Location**: Chicago, IL (Remote)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core pmo tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver pmo solutions.
+- oubleshoot and resolve issues in pmo workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in pmo projects or environments.
+- Strong analytical and problem-solving skills in the field of pmo.
+- Familiarity with tools and technologies related to pmo.
+- Ability to work independently and in a team on pmo challenges.
+"
+HR,"**Job Title**: HR Specialist
+**Location**: New York, NY (Hybrid)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core hr tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver hr solutions.
+- oubleshoot and resolve issues in hr workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in hr projects or environments.
+- Strong analytical and problem-solving skills in the field of hr.
+- Familiarity with tools and technologies related to hr.
+- Ability to work independently and in a team on hr challenges.
+"
+HR,"**Job Title**: Senior HR
+**Location**: Boston, MA (Onsite)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core hr tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver hr solutions.
+- oubleshoot and resolve issues in hr workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in hr projects or environments.
+- Strong analytical and problem-solving skills in the field of hr.
+- Familiarity with tools and technologies related to hr.
+- Ability to work independently and in a team on hr challenges.
+"
+HR,"**Job Title**: HR Analyst
+**Location**: Chicago, IL (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core hr tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver hr solutions.
+- oubleshoot and resolve issues in hr workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in hr projects or environments.
+- Strong analytical and problem-solving skills in the field of hr.
+- Familiarity with tools and technologies related to hr.
+- Ability to work independently and in a team on hr challenges.
+"
+Arts,"**Job Title**: Arts Specialist
+**Location**: Boston, MA (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core arts tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver arts solutions.
+- oubleshoot and resolve issues in arts workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in arts projects or environments.
+- Strong analytical and problem-solving skills in the field of arts.
+- Familiarity with tools and technologies related to arts.
+- Ability to work independently and in a team on arts challenges.
+"
+Arts,"**Job Title**: Senior Arts
+**Location**: San Francisco, CA (Remote)
+**Experience**: 1–3 years
+
+**Responsibilities**:
+- rk on core arts tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver arts solutions.
+- oubleshoot and resolve issues in arts workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in arts projects or environments.
+- Strong analytical and problem-solving skills in the field of arts.
+- Familiarity with tools and technologies related to arts.
+- Ability to work independently and in a team on arts challenges.
+"
+Arts,"**Job Title**: Arts Analyst
+**Location**: New York, NY (Hybrid)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core arts tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver arts solutions.
+- oubleshoot and resolve issues in arts workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in arts projects or environments.
+- Strong analytical and problem-solving skills in the field of arts.
+- Familiarity with tools and technologies related to arts.
+- Ability to work independently and in a team on arts challenges.
+"
+ETL Developer,"**Job Title**: ETL Developer Specialist
+**Location**: San Francisco, CA (Remote)
+**Experience**: 5–7 years
+
+**Responsibilities**:
+- rk on core etl developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver etl developer solutions.
+- oubleshoot and resolve issues in etl developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in etl developer projects or environments.
+- Strong analytical and problem-solving skills in the field of etl developer.
+- Familiarity with tools and technologies related to etl developer.
+- Ability to work independently and in a team on etl developer challenges.
+"
+ETL Developer,"**Job Title**: Senior ETL Developer
+**Location**: Boston, MA (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core etl developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver etl developer solutions.
+- oubleshoot and resolve issues in etl developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in etl developer projects or environments.
+- Strong analytical and problem-solving skills in the field of etl developer.
+- Familiarity with tools and technologies related to etl developer.
+- Ability to work independently and in a team on etl developer challenges.
+"
+ETL Developer,"**Job Title**: ETL Developer Analyst
+**Location**: Austin, TX (Onsite)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core etl developer tasks related to system design and implementation.
+- llaborate with cross-functional teams to deliver etl developer solutions.
+- oubleshoot and resolve issues in etl developer workflows.
+- intain documentation and ensure adherence to industry standards.
+
+**Requirements**:
+- nds-on experience in etl developer projects or environments.
+- Strong analytical and problem-solving skills in the field of etl developer.
+- Familiarity with tools and technologies related to etl developer.
+- Ability to work independently and in a team on etl developer challenges.
+"

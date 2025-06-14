@@ -1,0 +1,5 @@
+Model,True Negatives,False Positives,False Negatives,True Positives
+Logistic Regression,14280,0,122,28
+Random Forest,14231,49,7,143
+XGBoost,14160,120,6,144
+LightGBM,14210,70,6,144

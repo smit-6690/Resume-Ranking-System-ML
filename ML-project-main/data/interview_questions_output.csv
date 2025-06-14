@@ -1,0 +1,134 @@
+Resume_ID,Interview_Questions,Resume_Preview,JD_Preview
+0,"1. Can you explain a specific project where you utilized machine learning techniques such as regression, SVM, and random forest for data analysis and model building? What were the key challenges you faced and how did you overcome them?
+   
+2. In your experience with text analytics and NLP, can you walk us through a project where you implemented sentiment analysis using tools like VADER, textblob, and topic modeling techniques like LDA or NMF? How did you validate the accuracy and effectiveness of your models?
+
+3. Describe a scenario where you had to work with a large dataset stored in databases like MySQL, SQL Server, or Elasticsearch. How did you approach data visualization and reporting using tools like Plotly, Kibana, or Tableau to communicate insights effectively to stakeholders?
+
+4. Can you discuss a project where you developed and deployed a chatbot using natural language processing techniques like NLTK, spaCy, and machine learning models? How did you ensure the chatbot provided accurate responses and handled user queries efficiently?
+
+5. In your role at Ernst & Young LLP, you mentioned working on fraud analytic platforms and investigative tools. Can you elaborate on a specific case where you utilized advanced analytics, machine learning, and data visualization to uncover fraudulent activities or anomalies in financial data? How did your solutions contribute to fraud detection and prevention efforts?",skill programming language python panda numpy scipy scikit learn matplotlib sql java javascript jquery     machine learn regression svm baye knn random forest decision tree boost technique cluster ana,"**Job Title**: Senior Data Science
+**Location**: Chicago, IL (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- ll"
+1,"1. Can you walk us through a specific project where you developed and deployed machine learning models using Python, including the libraries you used and any challenges you encountered?
+2. How have you utilized APIs in your previous projects, specifically in the context of model serving and predictions? Can you provide an example of a REST API you built for this purpose?
+3. Discuss your experience with automating model retraining and monitoring pipelines. What tools or techniques have you used to streamline this process effectively?
+4. Have you worked with Docker in deploying machine learning models? If so, can you explain how you incorporated Docker into your workflow and any benefits you observed?
+5. How do you approach writing clean, modular, and reusable code in Python for machine learning projects? Can you provide an example of a project where you implemented these principles effectively?",education detail             uit rgpv data scientist      data scientist matelabs skill detail python exprience year month statsmodel exprience       month aw exprience year month machine learn exprie,"**Job Title**: Machine Learning Python Developer
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 4–6 years
+
+**Responsibilities**:
+- Develop and deploy machine learning models using Python.
+- Work w"
+2,"1. Can you walk us through a specific project where you used Python for data processing tasks, including handling CSV/JSON files and interacting with REST APIs?
+   
+2. How comfortable are you with debugging and maintaining legacy Python applications? Can you share a challenging bug you encountered and how you resolved it?
+   
+3. Have you worked on any projects involving version control with Git and using Linux command-line tools? Can you provide an example of a situation where your knowledge of these tools was crucial to the project's success?
+   
+4. In your experience with Python, have you written unit tests for your code? Can you explain the importance of unit testing and how you ensure the quality of your code through testing?
+   
+5. You mentioned experience with web development using Python web frameworks like Django and Flask. Can you discuss a project where you utilized these frameworks and highlight any challenges you faced during development?",area interest deep learning control system design programming python electric machinery web development analytic technical activity hindustan aeronautic limit bangalore week guidance satish senior eng,"**Job Title**: Junior Python Developer
+**Location**: Austin, TX (Onsite)
+**Experience**: 1–2 years
+
+**Responsibilities**:
+- Support development of Python scripts for data processing tasks.
+- Fix bugs "
+3,"1. Can you walk us through a specific data science project you worked on that involved using Python for deep learning and machine learning? What challenges did you face and how did you overcome them?
+2. In your role as a consultant at Deloitte USI, you were involved in developing analytics infrastructure using SAP HANA and Tableau. Can you discuss a specific project where you had to design and deploy analytical models to provide advanced analytic capabilities? What was the outcome of the project?
+3. You mentioned experience in developing customer segmentation and RFM analysis using Python and HANA. Can you explain the process you followed to successfully segment data into core segments and perform RFM analysis? What insights did you derive from this analysis?
+4. As a Senior Developer at Accenture, you spearheaded the deployment and introduction of SAP Predictive Analytics to reduce development time and reuse functionality. Can you describe a specific scenario where you had to design and implement SAP HANA data modeling to provide operational insights to a client? What challenges did you face in this project?
+5. In your role as a Database Developer at Accenture, you were actively involved in the development and maintenance of database tools. Can you discuss a specific instance where you had to perform performance tuning using SQL Profiler to optimize query performance? How did you identify and address performance bottlenecks in the database?",skill           python      sap hana      tableau      sap hana sql      sap hana pal      sql      sap lumira            linear programming      datum modelling      advance analytic      scm analyti,"**Job Title**: Senior Data Science
+**Location**: Chicago, IL (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- ll"
+4,"1. Can you walk me through a specific data science project you worked on during your internship at ITechPower, including the problem you were solving, the approach you took, and the outcome achieved?
+2. How have you utilized your knowledge of data structures in your data science projects? Can you provide an example of a situation where understanding data structures was crucial to the success of the project?
+3. In your experience with database management, have you encountered any challenges related to data integrity or performance? How did you address these challenges?
+4. Can you discuss a time when you used Python for data analysis? What libraries or frameworks did you leverage, and how did they contribute to the analysis process?
+5. How have you applied your core Java skills in a data science context? Can you provide an example of a project where Java was instrumental in achieving the desired outcomes?",education detail     mca ymcaust faridabad haryana datum science internship        skill detail datum structure exprience year month exprience year month datum analysis exprience year month python exp,"**Job Title**: Data Science Analyst
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- ll"
+5,"1. Can you provide an example of a machine learning project you have worked on using Python, including the libraries and tools you utilized?
+   
+2. How comfortable are you with building REST APIs for model serving and predictions? Can you explain a project where you have implemented this?
+   
+3. Have you had experience with automating model retraining and monitoring pipelines? If so, can you walk us through the process and tools you used?
+   
+4. How familiar are you with Docker and its role in deploying machine learning models? Can you discuss a specific project where you have utilized Docker for deployment?
+   
+5. Could you explain your experience with Linux environments and shell scripting, and how you have used these skills in a machine learning context?",skill basic iot python matlab data science machine learn html microsoft word microsoft excel microsoft powerpoint recognition academic secure place tech education detail august             tech ghatke,"**Job Title**: Machine Learning Python Developer
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 4–6 years
+
+**Responsibilities**:
+- Develop and deploy machine learning models using Python.
+- Work w"
+6,"1. Can you walk me through a specific data science project you worked on where you utilized Python for data manipulation and cleaning, and how you integrated Tableau for data visualization?
+   
+2. How have you used machine learning tools and statistical techniques to solve a problem in a real-world business scenario? Can you provide details on the methodology you employed and the outcomes achieved?
+   
+3. In your experience as a data science consultant, how did you collaborate with business stakeholders to identify data issues and propose effective solutions for decision-making? Can you share a specific example of a challenging data problem you solved in this role?
+   
+4. Have you worked on any projects involving advanced query visualization and analytic tools for analyzing complex datasets? If so, can you discuss the tools you used and the insights you were able to derive from the data?
+   
+5. As a certified data scientist, how do you stay updated on industry standards and best practices in the field of data science? Can you provide an example of a time when you had to troubleshoot and resolve issues in a data science workflow to ensure adherence to these standards?",skill      python      tableau      datum visualization      studio      machine learn      statistic iabac certify datum scientist versatile experience     year manage business datum science consulti,"**Job Title**: Data Science Analyst
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- ll"
+7,"1. Can you walk us through a specific project where you developed and deployed a machine learning model using Python, highlighting the libraries and tools you used?
+2. How have you automated model retraining and monitoring pipelines in your previous projects? Can you provide an example of a pipeline you implemented?
+3. Describe a time when you worked with REST APIs for model serving and predictions. What challenges did you face and how did you overcome them?
+4. Have you had experience working with Docker for containerization and cloud deployments? Can you explain a project where you utilized these technologies?
+5. How have you ensured code reusability and modularity in your previous work with Python ML libraries like scikit-learn and TensorFlow? Can you provide an example of a well-structured and reusable code snippet you've written?",education detail     tech rayat bahra institute engineering biotechnology datum science      datum science skill detail numpy exprience year month machine learn exprience year month tensorflow exprien,"**Job Title**: Machine Learning Python Developer
+**Location**: Seattle, WA (Hybrid)
+**Experience**: 4–6 years
+
+**Responsibilities**:
+- Develop and deploy machine learning models using Python.
+- Work w"
+8,"1. Can you walk us through a specific project where you applied machine learning algorithms, such as text classification or sentiment analysis, using Python packages like pandas, scikit-learn, and TensorFlow?
+   
+2. How did you approach troubleshooting and resolving issues while working on data science projects, particularly when dealing with complex algorithms like recurrent neural networks (RNNs) or web scraping using tools like Selenium and BeautifulSoup in Python?
+
+3. In your experience with web scraping, can you explain a scenario where you had to overcome challenges related to data extraction, cleaning, or structuring using Python scripts and libraries like requests and BeautifulSoup?
+
+4. How do you ensure the accuracy and efficiency of your machine learning models, especially when dealing with natural language processing (NLP) tasks like text classification or sentiment analysis? Can you discuss any specific techniques or strategies you've utilized in this context?
+
+5. When collaborating with cross-functional teams on technical projects, how do you communicate complex engineering concepts and findings to non-technical stakeholders, ensuring alignment and understanding across different departments or disciplines?",personal skill      ability quickly grasp technical aspect willingness learn      high energy level result orient education detail january       master engineering computer technology application bhop,"**Job Title**: Mechanical Engineer Specialist
+**Location**: Austin, TX (Onsite)
+**Experience**: 2–4 years
+
+**Responsibilities**:
+- rk on core mechanical engineer tasks related to system design and imp"
+9,"1. Can you walk me through a specific project where you used machine learning algorithms to analyze customer churn for an internet service provider? What techniques did you employ to identify customers likely to churn and what was the outcome of the project?
+   
+2. In your experience with image-based fraud detection using Microsoft Face API and PySpark, can you discuss the challenges you faced in recognizing similarities in faces from a database and how you approached preventing fraud in the initial stages of the project?
+   
+3. How have you leveraged sentiment analysis on Twitter data from mobile network service providers to analyze customer opinions and emotions? Can you provide an example of a project where you conducted sentiment analysis using Python, NLP, and Apache Spark to derive quantifiable results?
+   
+4. Could you elaborate on your role as a data science intern where you provided executive leadership teams with insights and analytic reports for effective strategic planning in the educational sector? How did you use data mining and visualization tools to support decision-making processes at the Aegis School of Data Science and Business?
+   
+5. As a mentor to data science enthusiasts and a reviewer of research papers at data science conferences, what criteria do you consider when evaluating the quality and relevance of research in the field of data science? Can you share an example of a research paper or project that particularly impressed you during your involvement with the data science community?",expertise      datum quantitative analysis      decision analytic      predictive modeling      datum drive personalization      kpi dashboard      big data query interpretation      datum mining visu,"**Job Title**: Senior Data Science
+**Location**: Chicago, IL (Remote)
+**Experience**: 3–5 years
+
+**Responsibilities**:
+- rk on core data science tasks related to system design and implementation.
+- ll"
